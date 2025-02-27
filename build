@@ -1,0 +1,4 @@
+bun run pack_assets.js
+bun build loader.js --compile --outfile final_prog
+chmod +x final_prog
+mv ./final_prog ../buntestoutput/final_prog

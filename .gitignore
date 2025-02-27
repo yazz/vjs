@@ -1,0 +1,8 @@
+assets/bun
+.idea/buntest.iml
+.idea/modules.xml
+.idea/workspace.xml
+loader
+loader.js
+output.txt
+pack_assets
